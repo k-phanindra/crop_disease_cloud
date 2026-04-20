@@ -1,5 +1,5 @@
-flask
-numpy
-pillow
-gunicorn
+flask==3.0.3
+numpy==1.26.4
+pillow==10.4.0
+gunicorn==21.2.0
 tensorflow==2.13.0
